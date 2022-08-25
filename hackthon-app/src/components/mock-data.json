@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "fullName": "Jenny Chan",
+      "manufacturer": "Maruthi",
+      "model": "333-962-7516",
+      "fuel": "Petrol",
+      "color": "Black",
+      "price": "2,00,000 INR",
+      "currency": "INR",
+      "city": "Hyderabad",
+      "country": "India"
+    },
+    {
+      "id": 2,
+      "fullName": "Jessica warren",
+      "manufacturer": "Duster",
+      "model": "333-962-7516",
+      "fuel": "Diesel",
+      "color": "White",
+      "price": "5,00,000 INR",
+      "currency": "INR",
+      "city": "Chennai",
+      "country": "India"
+    },
+    {
+      "id": 3,
+      "fullName": "Tony Frank",
+      "manufacturer": "Sedan",
+      "model": "318-961-7516",
+      "fuel": "Diesel",
+      "color": "Yellow",
+      "price": "7,00,000 INR",
+      "currency": "INR",
+      "city": "Kolkata",
+      "country": "India"
+    },
+    {
+      "id": 4,
+      "fullName": "Jeremy Clark",
+      "manufacturer": "Indica",
+      "model": "333-962-716",
+      "fuel": "Petrol",
+      "color": "voilet",
+      "price": "8,00,000 INR",
+      "currency": "INR",
+      "city": "Delhi",
+      "country": "India"
+    }
+  ]
+  
