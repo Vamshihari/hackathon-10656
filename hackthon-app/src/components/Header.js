@@ -11,7 +11,7 @@ const Header = () => {
         <div className="heading-style">
            Vehicle List
         </div>
-        <div className="btn">
+        <div className="btn-main">
         <Button  variant="contained">+  Add Vehicle</Button>
         </div>
         </Stack>
